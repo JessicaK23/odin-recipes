@@ -6,3 +6,11 @@ div {
     display: flex;
     justify-content: center;
 }
+
+.div {
+     display: center;
+}
+
+ a {
+    color: #000;
+}
