@@ -28,6 +28,21 @@ p {
     font-size: 16px;
     text-align: center;
     font-weight: bold;
-
 }
+ h1{
+    text-align: center;
+ }
+ 
+ #pageone 
+ {
+    background-color: rgb(244, 209, 214);
+ }
 
+ #pageone img {
+    height: auto;
+    width: 600px;
+ }
+ 
+
+    
+ 
