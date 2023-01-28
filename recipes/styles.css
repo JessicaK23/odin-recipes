@@ -1,3 +1,4 @@
+
 body {
     background-color: lightyellow;
 }
@@ -12,37 +13,50 @@ div {
     justify-content: center;
 }
 
-.div {
-     display: center;
+.links {
+     display: flex;
+     justify-content: center;
 }
+
 
  a {
     color: #000;
-}
-
-a {
     font-size: 20px;
 }
 
-p {
+.credit {
     font-size: 16px;
     text-align: center;
     font-weight: bold;
+    
 }
- h1{
-    text-align: center;
- }
+
+
  
  #pageone 
  {
     background-color: rgb(244, 209, 214);
  }
 
- #pageone img {
+ #pageone img 
+    {
     height: auto;
     width: 600px;
- }
- 
+    margin: auto;
+    display: block;
+    }
 
-    
+    #pageone .div
+    {
+        text-align: center;
+    }
+
+    .description
+    {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
  
