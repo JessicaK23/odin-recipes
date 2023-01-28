@@ -28,15 +28,14 @@ div {
     font-size: 16px;
     text-align: center;
     font-weight: bold;
-    
-}
+    }
 
 
  
  #pageone 
- {
+    {
     background-color: rgb(244, 209, 214);
- }
+    }
 
  #pageone img 
     {
@@ -59,4 +58,25 @@ div {
     h2 {
         text-align: center;
     }
+
+    ul {
+        text-align: center;
+        }
+
+    .numbers {
+        text-align: center;
+        list-style-position: inside;
+        }
+
  
+    li {
+        text-align: center;
+        }
+    
+    .fruit {
+            text-align: center;
+        }
+
+    .others {
+        text-align: center;
+    }
