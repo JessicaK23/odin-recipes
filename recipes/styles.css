@@ -1,3 +1,11 @@
+*
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+
+
 
 body {
     background-color: lightyellow;
@@ -121,6 +129,12 @@ div {
             color: rgb(249, 77, 51);
             font-style: italic;
         }
+
+        #pagethree {
+            background-color: rgb(243, 173, 243);
+        }
+
+
 
     
 
