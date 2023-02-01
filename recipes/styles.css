@@ -42,7 +42,7 @@ div {
     background-color: rgb(244, 209, 214);
     }
 
-  #pageone img 
+    img 
     {
     height: auto;
     width: 600px;
@@ -129,7 +129,7 @@ div {
 
 
         #pagethree {
-            background-color: rgb(243, 173, 243);
+            background-color: rgb(247, 194, 247);
         }
         
         
@@ -137,6 +137,14 @@ div {
             text-align: center;
             font-style: italic;
             color: rgb(127, 77, 77)
+        }
+
+        img {
+            
+            height: 450px;
+            width: 450px;
+            margin: auto;
+            display: block;
         }
 
 
