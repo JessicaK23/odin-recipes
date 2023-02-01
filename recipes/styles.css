@@ -1,8 +1,10 @@
+ @import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital@0;1&family=Source+Sans+Pro:ital,wght@1,200;1,400&display=swap');
+
 *
 {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: "Times New Roman";
+    font-size: 18px;
 }
-
 
 body {
     background-color: lightyellow;
@@ -12,8 +14,16 @@ body {
 h1 {
     text-align: center;
     padding: 10px;
+    font-family: 'Brygada 1918', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
 }
-
+h2 {
+    font-size: 22px;
+    font-family: 'Brygada 1918', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center
+}
 div {
     display: flex;
     justify-content: center;
@@ -61,10 +71,6 @@ div {
         text-align: center;
     }
 
-    h2 {
-        text-align: center;
-    }
-
     ul {
         text-align: center;
     }
@@ -77,6 +83,7 @@ div {
  
     li {
         text-align: center;
+        padding: 5px;
         
         }
     
@@ -115,7 +122,7 @@ div {
 
     ul {
         list-style-position:inside;
-        
+       display: inline;
         }
     
     .center {
@@ -149,19 +156,19 @@ div {
             display: block;
         }
 
-        ol {
-            list-style-position: inside;
-            padding: 20px ;
-    
-        }
-
         ol li {
-            padding: 5px;
-        }
+            list-style-position: inside;
+            padding: 5px ;
+            }
 
-        
-        
-        
+
+
+
+        .home-btn {
+            background-color:rgb(237, 178, 234);
+            border-radius: 10px;
+            
+        }
 
 
     
