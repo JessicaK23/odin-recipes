@@ -11,6 +11,7 @@ body {
 
 h1 {
     text-align: center;
+    padding: 10px;
 }
 
 div {
@@ -43,12 +44,12 @@ div {
     }
 
     img 
-    {
+  {
     height: auto;
     width: 600px;
     margin: auto;
     display: block;
-    }
+       }
 
     #pageone .div
     {
@@ -113,19 +114,20 @@ div {
     }
 
     ul {
-        list-style: inside;
+        list-style-position:inside;
+        
         }
     
-        .center {
+    .center {
             text-align: center;
             list-style: inside;
         }
     
-        h3 {
+    h3     {
             text-align: center;
             color: rgb(249, 77, 51);
             font-style: italic;
-        }
+           }
 
 
         #pagethree {
@@ -139,7 +141,7 @@ div {
             color: rgb(127, 77, 77)
         }
 
-        img {
+        #pagethree img {
             
             height: 450px;
             width: 450px;
@@ -147,6 +149,19 @@ div {
             display: block;
         }
 
+        ol {
+            list-style-position: inside;
+            padding: 20px ;
+    
+        }
+
+        ol li {
+            padding: 5px;
+        }
+
+        
+        
+        
 
 
     
