@@ -3,13 +3,16 @@
 *
 {
     font-family: "Times New Roman";
-    font-size: 18px;
+    font-size: 20px;
 }
 
 body {
     background-color: lightyellow;
 }
 
+.name {
+    font-size: 32px;
+}
 
 h1 {
     text-align: center;
@@ -163,10 +166,44 @@ div {
 
 
         .home-btn {
-            background-color:rgb(240, 180, 213);
-            border-radius: 10px;
+            background-color:#ebbced;            
+            font-size: 10px;
+            margin-right: 10px;
+            border-style: none;
+
+        }
+            
+
+        button > a {
+            font-size: 22px;
+        }
+
+        i {
+            font-size: 20px;
+            color: palevioletred;
+        }
+
+        i:hover {
+        font-size: 25px;
+        color: rgb(217, 146, 204);       
+        }
+
+        .home-btn:hover {
+            background-color: rgb(237, 253, 144);
             
         }
+
+        .icon {
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        
+        
+
+        
 
 
     
